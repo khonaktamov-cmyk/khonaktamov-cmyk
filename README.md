@@ -21,7 +21,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 When I'm not working with data, I enjoy helping people by making educational contents in my youtobe chanel.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website]( https://khonaktamov-cmyk.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
