@@ -25,7 +25,7 @@ When I'm not working with data, I enjoy helping people by making educational con
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project HR Analytics Dashboard:** Analyzing workforce data to understand employee demographics, turnover patterns, departmental performance, and key HR metrics using SQL, Python, and Power BI.  
+- **Project: HR Analytics Dashboard-** Analyzing workforce data to understand employee demographics, turnover patterns, departmental performance, and key HR metrics using SQL, Python, and Power BI.  
 - **Content Creation:**  Developing new tutorials on data visualization for my YouTube channel.
 
 ## 🌱 Currently Learning 
